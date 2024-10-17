@@ -1,15 +1,17 @@
-:root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
-}
-body{
-    background: url('img/bg-desktop.webp');
-    font-family: Bai Jamjuree;
-}
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swap');
 
+:root{
+    --text-color: #ffffff;
+    --card-front-color: #AF3438;
+    --card-back-color: #51BBA9;
+
+body {
+  background: url(img/bg-desktop-red.webp);
+  font-family: Gluten;
+}
 #container{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .cartao{
@@ -78,5 +80,4 @@ footer p {
     text-align: center;
     font-size: 0.6rem;
     margin-top: 0.5rem;
-
 }
