@@ -20,7 +20,7 @@ criaCartao(
     'Na natureza nada se cria, nada se perde, tudo se transforma.'
 )
 criaCartao (
-    'Biologia'
-    'O que é Complexo de Golgi'
+    'Biologia',
+    'O que é o Complexo de Golgi?',
     'É uma organela celular que está relacionada com o processo de secreção de substâncias'
 )
