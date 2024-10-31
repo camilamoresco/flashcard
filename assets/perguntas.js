@@ -1,12 +1,12 @@
 criaCartao (
     'Geografia',
-    'Qual a capital da Argentina',
+    'Qual a capital da Argentina?',
     'Buenos Aires'
 )
 
 criaCartao (
     'Esporte',
-    'Em qual cidade foi realizada as olimpíadas de 2012',
+    'Em qual cidade foi realizada as olimpíadas de 2012?',
     'Londres'
 )
 criaCartao (
