@@ -24,3 +24,8 @@ criaCartao (
     'O que é o Complexo de Golgi?',
     'É uma organela celular que está relacionada com o processo de secreção de substâncias'
 )
+criaCartao (
+    'História',
+    'Qual foi o marco da Revolução Francesa?',
+    'Teve como grande marco a Queda da Bastilha, que aconteceu no dia 14 de julho de 1789, espalhou-se pela França e aconteceu entre 1789 e 1799'
+)
